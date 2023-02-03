@@ -1,5 +1,12 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios Remotos
+<<<<<<< HEAD
 Capítulo 4: Conflictos
 Capítolo 5: Pull Request
+=======
+Capítulo 4: Gerar Almonte
+Capítulo 5: Conflictos
+Capítolo 6: Pull Request
+
+>>>>>>> 7c5548414c5fef3487b9b331d7a965726c48719b
